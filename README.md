@@ -1,15 +1,20 @@
 ### Hey there 👋, my name is Darshan RG
-#### Web Developer
+#### Deep Generalist
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/darshangowda11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/darshanrgs/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/darshan._rg/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/darshangowda_11)  
 
 
-I am a web fullstack developer, passionate about creating visually stunning and user-friendly websites and web applications. I have a solid background in HTML/CSS and JavaScript, and am eager to learn new skills and technologies. I am also well-versed in NODE.JS, MySQL and MongoDB, and have experience working with popular framework and library such as Express.js and React. I am a team player, who is highly motivated and results-driven.
+Fullstack Developer | Cognitive Thinker | Builder of Smart Products
 
-Skills:  REACT / JS / HTML / CSS / NODE / DSA
+I’m a fullstack web developer passionate about designing visually engaging and user-friendly websites and applications. With strong expertise in JavaScript, Node.js, MySQL, MongoDB, and frameworks like React, Express, and Vue.js, I combine functionality with aesthetics.
 
-- 🔭 I’m currently working on building Glucowear product
-- 💬 Ask me about Web development, Psychology, Cricketing skills, Nature of Crypto and Stock markets..
+Always eager to expand my skill set, I specialize in Computational Thinking, Semantic Analysis, Cognitive Management, and Metacognitive Awareness—applying these principles to problem-solving and software development.
+
+Currently exploring Wolfram Language, the Computational Universe, and the applications of LLMs (Large Language Models) in the tech world.
+
+🧠 Currently working on an attention-regulator smart product.
+🌱 Tech stack: React / Vue / Next.js / Node.js / Express / DSA
+💬 Ask me about software development, metaphysics, cognition, consciousness, trading, or AI
 
 
 
